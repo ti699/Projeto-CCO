@@ -1,0 +1,15 @@
+{
+  "data": "13/01/2026",
+  "data_geracao": "2026-01-13T19:49:37.053Z",
+  "usuario_id": 1,
+  "observacoes": "",
+  "estatisticas": {
+    "total_ocorrencias": 0,
+    "concluidas": 0,
+    "em_andamento": 0,
+    "pendentes": 0,
+    "com_atraso": 0,
+    "com_troca_veiculo": 0
+  },
+  "ocorrencias": []
+}
